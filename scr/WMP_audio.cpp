@@ -38,11 +38,10 @@
 #include <thread>
 #include <filesystem>
 #include <conio.h>
-#include "../../third_party/json/nlohmann_json/json.hpp"
-#include "../../lib_ka/include/files/opendialogfile.h"
-#include "../../lib_ka/include/string/string_utility.h"
-#include "../../lib_ka/include/system/console_utility.h"
-#include "../../lib_ka/include/tools/bool_option.h"
+#include "../include/opendialogfile.h"
+#include "../include/string_utility.h"
+#include "../include/console_utility.h"
+#include "../include/bool_option.h"
 #include "../include/playlist.hpp"
 
 #pragma comment(lib, "ole32.lib")
