@@ -363,3 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 /Audio Project.vcxproj
 /Audio Project.vcxproj.filters
+/fmodL.dll
+/fmod.dll
+/fmodstudio.dll
+/fmodstudioL.dll
