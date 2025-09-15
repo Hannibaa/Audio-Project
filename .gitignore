@@ -367,3 +367,8 @@ FodyWeavers.xsd
 /fmod.dll
 /fmodstudio.dll
 /fmodstudioL.dll
+/include/audio_win.hpp
+/resource/Tetris.mp3
+/resource/track001.mp3
+/resource/track002.mp3
+/resource/Track003.wav
