@@ -376,3 +376,7 @@ FodyWeavers.xsd
 /scr/window_audioMsi.cpp
 /scr/wav_data.cpp
 /scr/first_autio.cpp
+/scr/first_autio.cpp
+/scr/wav_data.cpp
+/scr/window_audioMsi.cpp
+/scr/windows_sound.cpp
