@@ -372,3 +372,7 @@ FodyWeavers.xsd
 /resource/track001.mp3
 /resource/track002.mp3
 /resource/Track003.wav
+/scr/windows_sound.cpp
+/scr/window_audioMsi.cpp
+/scr/wav_data.cpp
+/scr/first_autio.cpp
