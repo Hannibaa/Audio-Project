@@ -11,7 +11,7 @@
 int main() {
 	std::cout << "Audio Program Start Now\n";
 
-	std::string		audio_filename = R"(C:\Users\Acer\repository\Audio Project\resource\01. Track 1.mp3)";
+	std::string		audio_filename = R"(C:\Users\Acer\repository\Audio Project\resource\Tetris.mp3)";
 
 	FMOD_RESULT result;
 
